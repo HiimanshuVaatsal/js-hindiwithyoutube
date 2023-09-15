@@ -23,12 +23,19 @@ function sayMyName(){
 // console.log(result);
 
 
-function loginuserMessage(username="sam"){
-    if(username===undefined){
-        console.log('please try agin.')
-    }
-    return `${username} jsut logged in`   
-}
+// function loginuserMessage(username="sam"){
+//     if(username===undefined){
+//         console.log('please try agin.')
+//     }
+//     return `${username} jsut logged in`   
+// }
 
-const result=loginuserMessage();
-console.log(result);
+// const result=loginuserMessage();
+// console.log(result);
+
+
+// +++++++++++++++++++++++++++++++ Logic control / control flow +++++++++++++++++++++++++++++++++++++++
+
+
+
+
