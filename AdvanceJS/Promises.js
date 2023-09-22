@@ -104,11 +104,11 @@ Promisethird.then((user)=>{
 // getAllUsers()
 
 
-fetch('https://jsonplaceholder.typicode.com/users')
-.then((resopnse)=>{
-    return resopnse.json()
-}).then((data)=>{
-    console.log(data);
-}).catch((error)=>{
-    console.log(error);
-})
+// fetch('https://jsonplaceholder.typicode.com/users')
+// .then((resopnse)=>{
+//     return resopnse.json()
+// }).then((data)=>{
+//     console.log(data);
+// }).catch((error)=>{
+//     console.log(error);
+// })
